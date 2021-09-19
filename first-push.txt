@@ -1,11 +1,3 @@
-This is the first ppush
-wq
-:wq
-1
-q
-q
-:1
-:q
+This is the first push
 
-
-
+This is the second edit to file
